@@ -4,5 +4,5 @@ There are a total of 4958 speakers in the dataset of NIST i-vector machine learn
 
 <p align="center">
   <img src="figures/ss.PNG" width="450">
-  
+  <img src="figures/EER.PNG" width="450">
 </p>
